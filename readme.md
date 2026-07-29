@@ -8,6 +8,7 @@ This project demonstrates three important techniques used in **Natural Language 
 2. **Stemming**
 3. **Lemmatization**
 
+ABC
 These techniques are commonly used to preprocess and normalize text before applying NLP tasks such as text classification, sentiment analysis, spam detection, and machine learning.
 
 ---
